@@ -197,7 +197,7 @@ function DesktopSite() {
                 {releaseConfig.released ? "Download" : releaseConfig.disabledText}
               </Button>
             </Link>
-            <Link href="https://discord.gg/gt2vRJV6" target="_blank">
+            <Link href="https://discord.gg/dwWvUjraq4" target="_blank">
               <Button
                 variant="outline"
                 className="bg-transparent border-gray-600 text-gray-300 hover:bg-gray-800/50 hover:border-gray-500 hover:text-white transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-gray-500/20 transform-gpu"
@@ -248,7 +248,7 @@ function DesktopSite() {
               </Button>
             </Link>
 
-            <Link href="https://discord.gg/gt2vRJV6" target="_blank">
+            <Link href="https://discord.gg/dwWvUjraq4" target="_blank">
               <Button
                 variant="outline"
                 size="lg"
@@ -332,7 +332,7 @@ function MobileSite() {
                 {releaseConfig.released ? "Download" : "Not Released"}
               </Button>
             </Link>
-            <Link href="https://discord.gg/gt2vRJV6" target="_blank">
+            <Link href="https://discord.gg/dwWvUjraq4" target="_blank">
               <Button
                 variant="outline"
                 size="sm"
@@ -493,7 +493,7 @@ function MobileSite() {
               </>
             )}
 
-            <Link href="https://discord.gg/gt2vRJV6" target="_blank">
+            <Link href="https://discord.gg/dwWvUjraq4" target="_blank">
               <Button
                 variant="outline"
                 size="lg"
